@@ -1,0 +1,86 @@
+{
+    "combos": [
+        {
+            "id": "AA",
+            "cards": ["A", "A"],
+            "type": "pair",
+            "power": {
+                "pair": 9999
+            },
+            "mnemonic": {
+                "text": "エースエース、九九で最強",
+                "image": "images/aa.png"
+            },
+            "sort_order": 1
+        },
+        {
+            "id": "KK",
+            "cards": ["K", "K"],
+            "type": "pair",
+            "power": {
+                "pair": 98
+            },
+            "mnemonic": {
+                "text": "キングキング、苦発（98）で強い",
+                "image": "images/kk.png"
+            },
+            "sort_order": 2
+        },
+        {
+            "id": "AK",
+            "cards": ["A", "K"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 99,
+                "suited": 99
+            },
+            "mnemonic": {
+                "text": "エーケー、九九で久久（きゅうきゅう）",
+                "image": "images/ak.png"
+            },
+            "sort_order": 3
+        },
+        {
+            "id": "AQ",
+            "cards": ["A", "Q"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 95,
+                "suited": 97
+            },
+            "mnemonic": {
+                "text": "エークイーン、救護（95）で急な（97）強さ",
+                "image": "images/aq.png"
+            },
+            "sort_order": 4
+        },
+        {
+            "id": "Q9",
+            "cards": ["Q", "9"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 9,
+                "suited": 38
+            },
+            "mnemonic": {
+                "text": "救急（Q9）車に苦（9）しむ鯖（38）",
+                "image": "images/q9.png"
+            },
+            "sort_order": 5
+        },
+        {
+            "id": "JT",
+            "cards": ["J", "T"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 65,
+                "suited": 85
+            },
+            "mnemonic": {
+                "text": "ジェーテン、無効（65）から発展（85）",
+                "image": "images/jt.png"
+            },
+            "sort_order": 6
+        }
+    ]
+}
