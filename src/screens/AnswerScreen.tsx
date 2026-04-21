@@ -33,11 +33,13 @@ function ChoiceGrid({ choices, correct, selected }: { choices: number[]; correct
           style += 'bg-white/10 text-white/30'
         }
         return (
-          <div key={v} className={style}>
-            <div className="text-center">
-              {isCorrect && <span className="block text-xs mb-1">◯</span>}
-              {v}
-            </div>
+          <div key={v} className={`relative ${style}`}>
+            {isCorrect && (
+              <span className="absolute inset-0 flex items-center justify-center text-5xl text-white/70 pointer-events-none">
+                ◯
+              </span>
+            )}
+            <div className="text-center">{v}</div>
           </div>
         )
       })}
