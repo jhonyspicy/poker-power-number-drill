@@ -5,49 +5,11 @@
             "ranks": ["A", "A"],
             "type": "pair",
             "power": {
-                "pair": 9999
+                "pair": 99
             },
             "mnemonic": {
                 "text": "エースエース、九九で最強",
-                "image": "images/aa.png"
-            }
-        },
-        {
-            "id": "KK",
-            "ranks": ["K", "K"],
-            "type": "pair",
-            "power": {
-                "pair": 98
-            },
-            "mnemonic": {
-                "text": "キングキング、苦発（98）で強い",
-                "image": "images/kk.png"
-            }
-        },
-        {
-            "id": "AK",
-            "ranks": ["A", "K"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 99,
-                "suited": 99
-            },
-            "mnemonic": {
-                "text": "エーケー、九九で久久（きゅうきゅう）",
-                "image": "images/ak.png"
-            }
-        },
-        {
-            "id": "AQ",
-            "ranks": ["A", "Q"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 95,
-                "suited": 97
-            },
-            "mnemonic": {
-                "text": "エークイーン、救護（95）で急な（97）強さ",
-                "image": "images/aq.png"
+                "image": "/poker-power-number-drill/image/aa.png"
             }
         },
         {
@@ -60,20 +22,20 @@
             },
             "mnemonic": {
                 "text": "救急（Q9）車に苦（9）しむ鯖（38）",
-                "image": "images/q9.png"
+                "image": "/poker-power-number-drill/image/q9.png"
             }
         },
         {
-            "id": "JT",
-            "ranks": ["J", "T"],
+            "id": "Q8",
+            "ranks": ["Q", "8"],
             "type": "non_pair",
             "power": {
-                "offsuit": 65,
-                "suited": 85
+                "offsuit": 8,
+                "suited": 16
             },
             "mnemonic": {
-                "text": "ジェーテン、無効（65）から発展（85）",
-                "image": "images/jt.png"
+                "text": "クッパ（Q8）蜂（8）に色（16）気づく",
+                "image": "/poker-power-number-drill/image/q8.png"
             }
         }
     ]
