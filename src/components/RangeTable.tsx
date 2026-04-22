@@ -22,12 +22,15 @@ export default function RangeTable({ highlightId }: Props) {
             cellId = col + row
           }
           const isHighlight = cellId === highlightId
+          const isPair = ri === ci
           return (
             <div
               key={`${ri}-${ci}`}
-              className={`text-[6px] sm:text-[8px] leading-none p-[2px] text-center rounded-[2px] ${
+              className={`aspect-square text-[6px] sm:text-[8px] leading-none p-[2px] text-center rounded-[2px] flex items-center justify-center ${
                 isHighlight
                   ? 'bg-amber-500 text-black font-bold'
+                  : isPair
+                  ? 'bg-white/20 text-white/50'
                   : 'bg-white/10 text-white/40'
               }`}
             >
