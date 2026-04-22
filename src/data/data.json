@@ -9,7 +9,7 @@
             },
             "mnemonic": {
                 "text": "AAは無敵",
-                "image": "/poker-power-number-drill/image/aa.png"
+                "image": "/poker-power-number-drill/image/aa.webp"
             }
         },
         {
@@ -22,7 +22,7 @@
             },
             "mnemonic": {
                 "text": "救急（Q9）車に苦（9）しむ鯖（38）",
-                "image": "/poker-power-number-drill/image/q9.png"
+                "image": "/poker-power-number-drill/image/q9.webp"
             }
         },
         {
@@ -35,7 +35,7 @@
             },
             "mnemonic": {
                 "text": "クッパ（Q8）蜂（8）に色（16）気づく",
-                "image": "/poker-power-number-drill/image/q8.png"
+                "image": "/poker-power-number-drill/image/q8.webp"
             }
         }
     ]
