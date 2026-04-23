@@ -61,7 +61,7 @@
             },
             "mnemonic": {
                 "text": "あと（AT）三浪（36）で無敵（∞）",
-                "image": "/poker-power-number-drill/image/aj.webp"
+                "image": "/poker-power-number-drill/image/at.webp"
             }
         },
         {
@@ -73,8 +73,8 @@
                 "suited": 50
             },
             "mnemonic": {
-                "text": "",
-                "image": ""
+                "text": "永久（A9）に繋（27）ごう（50）！",
+                "image": "/poker-power-number-drill/image/a9.webp"
             }
         },
         {
@@ -86,8 +86,8 @@
                 "suited": 37
             },
             "mnemonic": {
-                "text": "",
-                "image": ""
+                "text": "怪（A8）しい虹（24）を見な（37）！",
+                "image": "/poker-power-number-drill/image/a8.webp"
             }
         },
         {
