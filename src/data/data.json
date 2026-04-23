@@ -13,6 +13,355 @@
             }
         },
         {
+            "id": "AK",
+            "ranks": ["A", "K"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 99,
+                "suited": 99
+            },
+            "mnemonic": {
+                "text": "AKももちろん強いです！",
+                "image": "/poker-power-number-drill/image/ak.webp"
+            }
+        },
+        {
+            "id": "AQ",
+            "ranks": ["A", "Q"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "AQも結構強いです！",
+                "image": "/poker-power-number-drill/image/aq.webp"
+            }
+        },
+        {
+            "id": "AJ",
+            "ranks": ["A", "J"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "アジ（AJ）フライ、50円で食べ放題（∞）",
+                "image": "/poker-power-number-drill/image/aj.webp"
+            }
+        },
+        {
+            "id": "AT",
+            "ranks": ["A", "T"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "あと（AT）三浪（36）で無敵（∞）",
+                "image": "/poker-power-number-drill/image/aj.webp"
+            }
+        },
+        {
+            "id": "A9",
+            "ranks": ["A", "9"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "A8",
+            "ranks": ["A", "8"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "A7",
+            "ranks": ["A", "7"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "A6",
+            "ranks": ["A", "6"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "A5",
+            "ranks": ["A", "5"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "A4",
+            "ranks": ["A", "4"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "A3",
+            "ranks": ["A", "3"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "A2",
+            "ranks": ["A", "2"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "KK",
+            "ranks": ["K", "K"],
+            "type": "pair",
+            "power": {
+                "pair": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "KQ",
+            "ranks": ["K", "Q"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "KJ",
+            "ranks": ["K", "J"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "KT",
+            "ranks": ["K", "T"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "K9",
+            "ranks": ["K", "9"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "K8",
+            "ranks": ["K", "8"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "K7",
+            "ranks": ["K", "7"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "K6",
+            "ranks": ["K", "6"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "K5",
+            "ranks": ["K", "5"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "K4",
+            "ranks": ["K", "4"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "K3",
+            "ranks": ["K", "3"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "K2",
+            "ranks": ["K", "2"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "QQ",
+            "ranks": ["Q", "Q"],
+            "type": "pair",
+            "power": {
+                "pair": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "QJ",
+            "ranks": ["Q", "J"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "QT",
+            "ranks": ["Q", "T"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
             "id": "Q9",
             "ranks": ["Q", "9"],
             "type": "non_pair",
@@ -36,6 +385,360 @@
             "mnemonic": {
                 "text": "クッパ（Q8）蜂（8）に色（16）気づく",
                 "image": "/poker-power-number-drill/image/q8.webp"
+            }
+        },
+        {
+            "id": "Q7",
+            "ranks": ["Q", "7"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "Q6",
+            "ranks": ["Q", "6"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "Q5",
+            "ranks": ["Q", "5"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "Q4",
+            "ranks": ["Q", "4"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "Q3",
+            "ranks": ["Q", "3"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "Q2",
+            "ranks": ["Q", "2"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "JJ",
+            "ranks": ["J", "J"],
+            "type": "pair",
+            "power": {
+                "pair": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "JT",
+            "ranks": ["J", "T"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "J9",
+            "ranks": ["J", "9"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "J8",
+            "ranks": ["J", "8"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "J7",
+            "ranks": ["J", "7"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "J6",
+            "ranks": ["J", "6"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "J5",
+            "ranks": ["J", "5"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "J4",
+            "ranks": ["J", "4"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "J3",
+            "ranks": ["J", "3"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "J2",
+            "ranks": ["J", "2"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "TT",
+            "ranks": ["T", "T"],
+            "type": "pair",
+            "power": {
+                "pair": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "T9",
+            "ranks": ["T", "9"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "T8",
+            "ranks": ["T", "8"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "99",
+            "ranks": ["9", "9"],
+            "type": "pair",
+            "power": {
+                "pair": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "98",
+            "ranks": ["9", "8"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 0,
+                "suited": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "88",
+            "ranks": ["8", "8"],
+            "type": "pair",
+            "power": {
+                "pair": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "77",
+            "ranks": ["7", "7"],
+            "type": "pair",
+            "power": {
+                "pair": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "66",
+            "ranks": ["6", "6"],
+            "type": "pair",
+            "power": {
+                "pair": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "55",
+            "ranks": ["5", "5"],
+            "type": "pair",
+            "power": {
+                "pair": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "44",
+            "ranks": ["4", "4"],
+            "type": "pair",
+            "power": {
+                "pair": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "33",
+            "ranks": ["3", "3"],
+            "type": "pair",
+            "power": {
+                "pair": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
+            }
+        },
+        {
+            "id": "22",
+            "ranks": ["2", "2"],
+            "type": "pair",
+            "power": {
+                "pair": 0
+            },
+            "mnemonic": {
+                "text": "",
+                "image": ""
             }
         }
     ]

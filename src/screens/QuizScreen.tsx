@@ -77,7 +77,7 @@ export default function QuizScreen({ hand, onAnswer }: Props) {
                 onClick={() => setSelectedPair(v)}
                 className={choiceStyle(v, selectedPair, hand.power.pair!)}
               >
-                {v}
+                {v === 99 ? '∞' : v}
               </button>
             ))}
           </div>
@@ -95,7 +95,7 @@ export default function QuizScreen({ hand, onAnswer }: Props) {
                   onClick={() => setSelectedOffsuit(v)}
                   className={choiceStyle(v, selectedOffsuit, hand.power.offsuit!)}
                 >
-                  {v}
+                  {v === 99 ? '∞' : v}
                 </button>
               ))}
             </div>
@@ -111,7 +111,7 @@ export default function QuizScreen({ hand, onAnswer }: Props) {
                   onClick={() => setSelectedSuited(v)}
                   className={choiceStyle(v, selectedSuited, hand.power.suited!)}
                 >
-                  {v}
+                  {v === 99 ? '∞' : v}
                 </button>
               ))}
             </div>
