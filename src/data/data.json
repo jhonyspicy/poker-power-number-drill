@@ -30,8 +30,8 @@
             "ranks": ["A", "Q"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 99,
+                "suited": 99
             },
             "mnemonic": {
                 "text": "AQも結構強いです！",
@@ -43,8 +43,8 @@
             "ranks": ["A", "J"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 50,
+                "suited": 99
             },
             "mnemonic": {
                 "text": "アジ（AJ）フライ、50円で食べ放題（∞）",
@@ -56,8 +56,8 @@
             "ranks": ["A", "T"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 36,
+                "suited": 99
             },
             "mnemonic": {
                 "text": "あと（AT）三浪（36）で無敵（∞）",
@@ -69,8 +69,8 @@
             "ranks": ["A", "9"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 27,
+                "suited": 50
             },
             "mnemonic": {
                 "text": "",
@@ -82,8 +82,8 @@
             "ranks": ["A", "8"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 24,
+                "suited": 37
             },
             "mnemonic": {
                 "text": "",
@@ -95,8 +95,8 @@
             "ranks": ["A", "7"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 22,
+                "suited": 32
             },
             "mnemonic": {
                 "text": "",
@@ -108,8 +108,8 @@
             "ranks": ["A", "6"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 18,
+                "suited": 28
             },
             "mnemonic": {
                 "text": "",
@@ -121,8 +121,8 @@
             "ranks": ["A", "5"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 21,
+                "suited": 31
             },
             "mnemonic": {
                 "text": "",
@@ -134,8 +134,8 @@
             "ranks": ["A", "4"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 18,
+                "suited": 27
             },
             "mnemonic": {
                 "text": "",
@@ -147,8 +147,8 @@
             "ranks": ["A", "3"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 16,
+                "suited": 26
             },
             "mnemonic": {
                 "text": "",
@@ -160,8 +160,8 @@
             "ranks": ["A", "2"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 15,
+                "suited": 24
             },
             "mnemonic": {
                 "text": "",
@@ -173,7 +173,7 @@
             "ranks": ["K", "K"],
             "type": "pair",
             "power": {
-                "pair": 0
+                "pair": 99
             },
             "mnemonic": {
                 "text": "",
@@ -185,8 +185,8 @@
             "ranks": ["K", "Q"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 48,
+                "suited": 99
             },
             "mnemonic": {
                 "text": "",
@@ -198,8 +198,8 @@
             "ranks": ["K", "J"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 31,
+                "suited": 75
             },
             "mnemonic": {
                 "text": "",
