@@ -20,7 +20,7 @@ function formatPower(value: number | undefined): string {
 
 export default function RangeTable({ highlightId, showPower = false }: Props) {
   return (
-    <div className="grid grid-cols-13 gap-[1px] w-full max-w-sm mx-auto">
+    <div className="grid grid-cols-13 gap-px w-full max-w-sm mx-auto">
       {RANKS.map((row, ri) =>
         RANKS.map((col, ci) => {
           let cellId: string
@@ -30,17 +30,17 @@ export default function RangeTable({ highlightId, showPower = false }: Props) {
             displayValue = showPower ? formatPower(powerMap.get(cellId)?.pair) : row + col
           } else if (ri < ci) {
             cellId = row + col
-            displayValue = showPower ? formatPower(powerMap.get(cellId)?.suited) : row + col + 's'
+            displayValue = showPower ? formatPower(powerMap.get(cellId)?.suited) : row + col
           } else {
             cellId = col + row
-            displayValue = showPower ? formatPower(powerMap.get(cellId)?.offsuit) : col + row + 'o'
+            displayValue = showPower ? formatPower(powerMap.get(cellId)?.offsuit) : col + row
           }
           const isHighlight = highlightId !== undefined && cellId === highlightId
           const isPair = ri === ci
           return (
             <div
               key={`${ri}-${ci}`}
-              className={`aspect-square text-[8px] sm:text-[10px] leading-none p-[2px] text-center rounded-[2px] flex items-center justify-center ${
+              className={`aspect-square text-[16px] leading-none p-0.5 text-center rounded-xs flex items-center justify-center ${
                 isHighlight
                   ? 'bg-amber-500 text-black font-bold'
                   : isPair
