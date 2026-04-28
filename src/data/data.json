@@ -211,8 +211,8 @@
             "ranks": ["K", "T"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 19,
+                "suited": 66
             },
             "mnemonic": {
                 "text": "",
@@ -224,99 +224,8 @@
             "ranks": ["K", "9"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "K8",
-            "ranks": ["K", "8"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "K7",
-            "ranks": ["K", "7"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "K6",
-            "ranks": ["K", "6"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "K5",
-            "ranks": ["K", "5"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "K4",
-            "ranks": ["K", "4"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "K3",
-            "ranks": ["K", "3"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "K2",
-            "ranks": ["K", "2"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 12,
+                "suited": 44
             },
             "mnemonic": {
                 "text": "",
@@ -340,8 +249,8 @@
             "ranks": ["Q", "J"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 31,
+                "suited": 75
             },
             "mnemonic": {
                 "text": "",
@@ -353,8 +262,8 @@
             "ranks": ["Q", "T"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 17,
+                "suited": 58
             },
             "mnemonic": {
                 "text": "",
@@ -388,84 +297,6 @@
             }
         },
         {
-            "id": "Q7",
-            "ranks": ["Q", "7"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "Q6",
-            "ranks": ["Q", "6"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "Q5",
-            "ranks": ["Q", "5"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "Q4",
-            "ranks": ["Q", "4"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "Q3",
-            "ranks": ["Q", "3"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "Q2",
-            "ranks": ["Q", "2"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
             "id": "JJ",
             "ranks": ["J", "J"],
             "type": "pair",
@@ -482,8 +313,8 @@
             "ranks": ["J", "T"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 22,
+                "suited": 58
             },
             "mnemonic": {
                 "text": "",
@@ -495,8 +326,8 @@
             "ranks": ["J", "9"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 9,
+                "suited": 39
             },
             "mnemonic": {
                 "text": "",
@@ -508,86 +339,8 @@
             "ranks": ["J", "8"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "J7",
-            "ranks": ["J", "7"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "J6",
-            "ranks": ["J", "6"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "J5",
-            "ranks": ["J", "5"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "J4",
-            "ranks": ["J", "4"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "J3",
-            "ranks": ["J", "3"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
-            },
-            "mnemonic": {
-                "text": "",
-                "image": ""
-            }
-        },
-        {
-            "id": "J2",
-            "ranks": ["J", "2"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 8,
+                "suited": 21
             },
             "mnemonic": {
                 "text": "",
@@ -611,8 +364,8 @@
             "ranks": ["T", "9"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 11,
+                "suited": 43
             },
             "mnemonic": {
                 "text": "",
@@ -624,8 +377,8 @@
             "ranks": ["T", "8"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 10,
+                "suited": 26
             },
             "mnemonic": {
                 "text": "",
@@ -649,8 +402,8 @@
             "ranks": ["9", "8"],
             "type": "non_pair",
             "power": {
-                "offsuit": 0,
-                "suited": 0
+                "offsuit": 10,
+                "suited": 31
             },
             "mnemonic": {
                 "text": "",
@@ -662,7 +415,7 @@
             "ranks": ["8", "8"],
             "type": "pair",
             "power": {
-                "pair": 0
+                "pair": 66
             },
             "mnemonic": {
                 "text": "",
@@ -674,7 +427,7 @@
             "ranks": ["7", "7"],
             "type": "pair",
             "power": {
-                "pair": 0
+                "pair": 58
             },
             "mnemonic": {
                 "text": "",
@@ -686,7 +439,7 @@
             "ranks": ["6", "6"],
             "type": "pair",
             "power": {
-                "pair": 0
+                "pair": 51
             },
             "mnemonic": {
                 "text": "",
@@ -698,7 +451,7 @@
             "ranks": ["5", "5"],
             "type": "pair",
             "power": {
-                "pair": 0
+                "pair": 44
             },
             "mnemonic": {
                 "text": "",
@@ -710,7 +463,7 @@
             "ranks": ["4", "4"],
             "type": "pair",
             "power": {
-                "pair": 0
+                "pair": 39
             },
             "mnemonic": {
                 "text": "",
@@ -722,7 +475,7 @@
             "ranks": ["3", "3"],
             "type": "pair",
             "power": {
-                "pair": 0
+                "pair": 33
             },
             "mnemonic": {
                 "text": "",
@@ -734,7 +487,7 @@
             "ranks": ["2", "2"],
             "type": "pair",
             "power": {
-                "pair": 0
+                "pair": 28
             },
             "mnemonic": {
                 "text": "",
