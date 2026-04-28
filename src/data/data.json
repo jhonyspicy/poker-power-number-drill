@@ -237,7 +237,7 @@
             "ranks": ["Q", "Q"],
             "type": "pair",
             "power": {
-                "pair": 0
+                "pair": 99
             },
             "mnemonic": {
                 "text": "99以上は強いです",
@@ -288,7 +288,7 @@
             "ranks": ["J", "J"],
             "type": "pair",
             "power": {
-                "pair": 0
+                "pair": 99
             },
             "mnemonic": {
                 "text": "99以上は強いです",
@@ -339,7 +339,7 @@
             "ranks": ["T", "T"],
             "type": "pair",
             "power": {
-                "pair": 0
+                "pair": 99
             },
             "mnemonic": {
                 "text": "99以上は強いです",
@@ -377,7 +377,7 @@
             "ranks": ["9", "9"],
             "type": "pair",
             "power": {
-                "pair": 0
+                "pair": 99
             },
             "mnemonic": {
                 "text": "99以上は強いです",
