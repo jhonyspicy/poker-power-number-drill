@@ -284,19 +284,6 @@
             }
         },
         {
-            "id": "Q8",
-            "ranks": ["Q", "8"],
-            "type": "non_pair",
-            "power": {
-                "offsuit": 8,
-                "suited": 16
-            },
-            "mnemonic": {
-                "text": "クッパ（Q8）蜂（8）に色（16）気づく",
-                "image": "/poker-power-number-drill/image/q8.webp"
-            }
-        },
-        {
             "id": "JJ",
             "ranks": ["J", "J"],
             "type": "pair",
