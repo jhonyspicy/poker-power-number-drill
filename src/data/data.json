@@ -228,7 +228,7 @@
                 "suited": 44
             },
             "mnemonic": {
-                "text": "",
+                "text": "機内（K9）でいつ（12）かヨシヨシ（44）して",
                 "image": "/poker-power-number-drill/image/k9.webp"
             }
         },
@@ -249,12 +249,12 @@
             "ranks": ["Q", "J"],
             "type": "non_pair",
             "power": {
-                "offsuit": 31,
+                "offsuit": 26,
                 "suited": 75
             },
             "mnemonic": {
-                "text": "",
-                "image": ""
+                "text": "孔雀（QJ）に群（26）がる名護（75）市民",
+                "image": "/poker-power-number-drill/image/qj.webp"
             }
         },
         {
@@ -266,8 +266,8 @@
                 "suited": 58
             },
             "mnemonic": {
-                "text": "",
-                "image": ""
+                "text": "クオリティー高い田舎のご飯",
+                "image": "/poker-power-number-drill/image/qt.webp"
             }
         },
         {
@@ -304,8 +304,8 @@
                 "suited": 58
             },
             "mnemonic": {
-                "text": "",
-                "image": ""
+                "text": "じっと（JT）夫婦（22）がご飯（58）食べてる",
+                "image": "/poker-power-number-drill/image/jt.webp"
             }
         },
         {
@@ -318,7 +318,7 @@
             },
             "mnemonic": {
                 "text": "",
-                "image": ""
+                "image": "/poker-power-number-drill/image/j9.webp"
             }
         },
         {
@@ -330,8 +330,8 @@
                 "suited": 21
             },
             "mnemonic": {
-                "text": "",
-                "image": ""
+                "text": "ジャパン（J8）、ハニー（8、21）",
+                "image": "/poker-power-number-drill/image/j8.webp"
             }
         },
         {
@@ -356,7 +356,7 @@
             },
             "mnemonic": {
                 "text": "",
-                "image": ""
+                "image": "/poker-power-number-drill/image/j9.webp"
             }
         },
         {
@@ -368,8 +368,8 @@
                 "suited": 26
             },
             "mnemonic": {
-                "text": "",
-                "image": ""
+                "text": "テンパー（T8）と（10）ツーブロック（26）",
+                "image": "/poker-power-number-drill/image/t8.webp"
             }
         },
         {
