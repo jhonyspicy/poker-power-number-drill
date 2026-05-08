@@ -39,7 +39,7 @@ function ChoiceGrid({ choices, correct, selected }: { choices: number[]; correct
                 ◯
               </span>
             )}
-            <div className="text-center">{v}</div>
+            <div className="text-center">{v === 99 ? '∞' : v}</div>
           </div>
         )
       })}

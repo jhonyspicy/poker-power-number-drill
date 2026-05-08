@@ -5,6 +5,7 @@ import { shuffle } from './utils'
 import TopScreen from './screens/TopScreen'
 import QuizScreen from './screens/QuizScreen'
 import AnswerScreen from './screens/AnswerScreen'
+import AboutScreen from './screens/AboutScreen'
 
 type AnswerResult = {
   hand: Hand
@@ -19,7 +20,7 @@ type AnswerResult = {
   selectedPair?: number
 }
 
-type Screen = 'top' | 'quiz' | 'answer'
+type Screen = 'top' | 'quiz' | 'answer' | 'about'
 
 const combos = handData.combos as Hand[]
 
@@ -54,6 +55,14 @@ export default function App() {
     setScreen('quiz')
   }
 
+  const handleAbout = () => {
+    setScreen('about')
+  }
+
+  const handleBack = () => {
+    setScreen('top')
+  }
+
   const handleAnswer = useCallback((result: AnswerResult) => {
     const isCorrect = result.hand.type === 'pair'
       ? result.pairCorrect === true
@@ -77,10 +86,12 @@ export default function App() {
 
   switch (screen) {
     case 'top':
-      return <TopScreen onStart={handleStart} />
+      return <TopScreen onStart={handleStart} onAbout={handleAbout} />
     case 'quiz':
       return <QuizScreen hand={currentHand} onAnswer={handleAnswer} />
     case 'answer':
       return answerResult ? <AnswerScreen result={answerResult} onNext={handleNext} /> : null
+    case 'about':
+      return <AboutScreen onBack={handleBack} />
   }
 }
