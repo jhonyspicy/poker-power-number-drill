@@ -165,7 +165,7 @@
             },
             "mnemonic": {
                 "text": "",
-                "image": ""
+                "image": "/poker-power-number-drill/image/a3.webp"
             }
         },
         {
@@ -266,7 +266,7 @@
                 "suited": 58
             },
             "mnemonic": {
-                "text": "クオリティー高（QT）い田舎（17）のご飯（58）",
+                "text": "クオリティー高い（QT）田舎（17）のご飯（58）",
                 "image": "/poker-power-number-drill/image/qt.webp"
             }
         },
@@ -355,8 +355,8 @@
                 "suited": 43
             },
             "mnemonic": {
-                "text": "",
-                "image": "/poker-power-number-drill/image/j9.webp"
+                "text": "Thank you（T9）いい（11）シーサー（43）",
+                "image": "/poker-power-number-drill/image/t9.webp"
             }
         },
         {
@@ -393,8 +393,8 @@
                 "suited": 31
             },
             "mnemonic": {
-                "text": "",
-                "image": ""
+                "text": "クッパ(98)と(10)サイ(31)",
+                "image": "/poker-power-number-drill/image/98.webp"
             }
         },
         {
@@ -406,7 +406,7 @@
             },
             "mnemonic": {
                 "text": "",
-                "image": ""
+                "image": "/poker-power-number-drill/image/88under.webp"
             }
         },
         {
@@ -418,7 +418,7 @@
             },
             "mnemonic": {
                 "text": "",
-                "image": ""
+                "image": "/poker-power-number-drill/image/88under.webp"
             }
         },
         {
@@ -430,7 +430,7 @@
             },
             "mnemonic": {
                 "text": "",
-                "image": ""
+                "image": "/poker-power-number-drill/image/88under.webp"
             }
         },
         {
@@ -442,7 +442,7 @@
             },
             "mnemonic": {
                 "text": "",
-                "image": ""
+                "image": "/poker-power-number-drill/image/88under.webp"
             }
         },
         {
@@ -454,7 +454,7 @@
             },
             "mnemonic": {
                 "text": "",
-                "image": ""
+                "image": "/poker-power-number-drill/image/88under.webp"
             }
         },
         {
@@ -466,7 +466,7 @@
             },
             "mnemonic": {
                 "text": "",
-                "image": ""
+                "image": "/poker-power-number-drill/image/88under.webp"
             }
         },
         {
@@ -478,7 +478,7 @@
             },
             "mnemonic": {
                 "text": "",
-                "image": ""
+                "image": "/poker-power-number-drill/image/88under.webp"
             }
         }
     ]
