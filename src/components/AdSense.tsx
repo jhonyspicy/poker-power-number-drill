@@ -19,8 +19,7 @@ export default function AdSense() {
 
   return (
     <div className="w-full flex justify-center my-4">
-      <ins className="adsbygoogle"
-           style="display:block"
+      <ins className="adsbygoogle block w-full"
            data-ad-client="ca-pub-3080773555651810"
            data-ad-slot="9350437098"
            data-ad-format="auto"
