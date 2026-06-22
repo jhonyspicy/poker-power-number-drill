@@ -1,4 +1,4 @@
-import AdSense from '../components/AdSense'
+import RangeTable from '../components/RangeTable'
 
 type Props = {
   onStart: () => void
@@ -28,7 +28,7 @@ export default function TopScreen({ onStart, onAbout }: Props) {
         パワーナンバーとは？
       </button>
       <div className="w-full">
-        <AdSense/>
+        <RangeTable showPower />
       </div>
     </div>
   )

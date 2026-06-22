@@ -1,3 +1,4 @@
+import { Fragment } from 'react'
 import data from '../data/data.json'
 
 const RANKS = ['A', 'K', 'Q', 'J', 'T', '9', '8', '7', '6', '5', '4', '3', '2']
@@ -19,10 +20,23 @@ function formatPower(value: number | undefined): string {
 }
 
 export default function RangeTable({ highlightId, showPower = false }: Props) {
+  const headerClass =
+    'aspect-square text-[16px] leading-none p-0.5 text-center flex items-center justify-center font-bold text-amber-300'
+
   return (
-    <div className="grid grid-cols-13 gap-px w-full max-w-sm mx-auto">
-      {RANKS.map((row, ri) =>
-        RANKS.map((col, ci) => {
+    <div className="grid grid-cols-14 gap-px w-full max-w-sm mx-auto">
+      <div className={headerClass} />
+      {RANKS.map((rank) => (
+        <div key={`col-${rank}`} className={headerClass}>
+          {rank}
+        </div>
+      ))}
+      {RANKS.map((row, ri) => (
+        <Fragment key={`row-${row}`}>
+          <div className={headerClass}>
+            {row}
+          </div>
+          {RANKS.map((col, ci) => {
           let cellId: string
           let displayValue: string
           if (ri === ci) {
@@ -51,8 +65,9 @@ export default function RangeTable({ highlightId, showPower = false }: Props) {
               {displayValue}
             </div>
           )
-        })
-      )}
+          })}
+        </Fragment>
+      ))}
     </div>
   )
 }
