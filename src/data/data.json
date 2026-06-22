@@ -233,6 +233,19 @@
             }
         },
         {
+            "id": "K8",
+            "ranks": ["K", "8"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 10,
+                "suited": 17
+            },
+            "mnemonic": {
+                "text": "気配（K8）は遠（10）いなぁ（17）",
+                "image": "/poker-power-number-drill/image/k8.webp"
+            }
+        },
+        {
             "id": "QQ",
             "ranks": ["Q", "Q"],
             "type": "pair",
@@ -281,6 +294,19 @@
             "mnemonic": {
                 "text": "救急（Q9）車に苦（9）しむ鯖（38）",
                 "image": "/poker-power-number-drill/image/q9.webp"
+            }
+        },
+        {
+            "id": "Q8",
+            "ranks": ["Q", "8"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 8,
+                "suited": 16
+            },
+            "mnemonic": {
+                "text": "キューバ（Q8）のハチ（8）、色（16）とりどり",
+                "image": "/poker-power-number-drill/image/q8.webp"
             }
         },
         {
@@ -410,6 +436,19 @@
             }
         },
         {
+            "id": "87",
+            "ranks": ["8", "7"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 10,
+                "suited": 19
+            },
+            "mnemonic": {
+                "text": "ナッパ（87）、天（10）に行く（19）",
+                "image": "/poker-power-number-drill/image/87.webp"
+            }
+        },
+        {
             "id": "77",
             "ranks": ["7", "7"],
             "type": "pair",
@@ -419,6 +458,19 @@
             "mnemonic": {
                 "text": "",
                 "image": "/poker-power-number-drill/image/88under.webp"
+            }
+        },
+        {
+            "id": "76",
+            "ranks": ["7", "6"],
+            "type": "non_pair",
+            "power": {
+                "offsuit": 7,
+                "suited": 15
+            },
+            "mnemonic": {
+                "text": "南無(76)な(7)囲碁(15)",
+                "image": "/poker-power-number-drill/image/76.webp"
             }
         },
         {
